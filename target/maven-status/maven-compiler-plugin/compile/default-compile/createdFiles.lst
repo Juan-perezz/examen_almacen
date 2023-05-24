@@ -1,0 +1,5 @@
+com\emergentes\controlador\inicio_servlet.class
+com\emergentes\dao\Productos_dao_implementacion.class
+com\emergentes\modelo\Productos.class
+com\emergentes\utiles\Conexion_bd.class
+com\emergentes\dao\Productos_dao.class
